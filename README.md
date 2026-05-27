@@ -26,5 +26,5 @@ This project analyzes the historical sales data of a fictitious global retail co
 
 ### Repository Structure
 
-- [project_superstore.ipynb](https://www.notion.so/project_superstore.ipynb):: The main Jupyter Notebook containing the full analysis, code, and visualizations.
-- [Superstore.csv](https://www.notion.so/Superstore.csv): The raw dataset used for the project.
+- [project_superstore.ipynb](https://github.com/nataliedrabkova/Superstore_business_analysis/blob/main/project_superstore.ipynb): The main Jupyter Notebook containing the full analysis, code, and visualizations.
+- [Superstore.csv](https://github.com/nataliedrabkova/Superstore_business_analysis/blob/main/Superstore.csv): The raw dataset used for the project.
